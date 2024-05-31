@@ -185,7 +185,7 @@ In order to be as useful as possible, this document will continue to evolve so p
 			
 			*The coupled Vlasov-Poisson system describes the self-consistent evolution of charges and their (electrical) potentials. Because of this, the system is nonlinear.*
 			
-		* **Schrödinger-Poisson** ![](badges/NISQ.png) ![](badges/Num.png) [MS21](dx.doi.org/10.3847/1538-4357/abe6ac)
+		* **Schrödinger-Poisson** ![](badges/NISQ.png) ![](badges/Num.png) [MS21](https://iopscience.iop.org/article/10.3847/1538-4357/abe6ac)
 			
 			*Similar to the Vlasov-Poisson system, the Schrödinger-Poisson equation attempts to describe the self-consistent evolution of a wave-function and a potential.*
 			
