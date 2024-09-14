@@ -91,8 +91,8 @@ In order to be as useful as possible, this document will continue to evolve so p
 		
 		* **Non-homogeneous** ![](badges/NISQ.png) ![](badges/Exp.png) [Bra+20](https://arxiv.org/abs/1909.05820) ![](badges/FTol.png) ![](badges/Theo.png) [Arr+19](https://doi.org/10.1103/PhysRevA.100.032306) [Ric+22](https://doi.org/10.1103/PhysRevA.106.052431) 
 		
-			* **Vlasov** ![](badges/FTol.png) ![](badges/Num.png) [ESP19](https://doi.org/10.1103/PhysRevA.100.062315)
-			
+			* **Vlasov** ![](badges/NISQ.png) ![](badges/Num.png) [Cap+23](https://arxiv.org/abs/2307.06032) ![](badges/FTol.png) ![](badges/Num.png) [ESP19](https://doi.org/10.1103/PhysRevA.100.062315) [NDS24](https://arxiv.org/abs/2403.11989) [TYH23](https://arxiv.org/abs/2304.08937) [Ame+23](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.062412) ![](badges/QIns.png) ![](badges/Num.png) [YL23](https://arxiv.org/abs/2311.07756)
+
 				*The Vlasov equation models the evolution of the distribution functions of (charged) particles in a plasma system, including their long-range Coulomb interactions. It can be written in the general form*
 				
 				$$\dfrac{\partial }{\partial t} f(x,p,t) + \dfrac{d r}{d t} \dfrac{\partial }{\partial r} f + \dfrac{d p}{d t} \dfrac{\partial }{\partial p} f = \mathcal{C}$$
@@ -226,7 +226,7 @@ In order to be as useful as possible, this document will continue to evolve so p
 		
 			*Stefan problems are a particular kind of boundary value problems for a system of PDEs in which the boundary between the phases can move with time.*
 
-* **Stochastic processes** ![](badges/NISQ.png) ![](badges/Num.png) [Kub+20](https://arxiv.org/abs/2012.04429) [Alg+22](https://quantum-journal.org/papers/q-2022-06-07-730/) ![](badges/FTol.png) ![](badges/Num.png) [An+21](https://quantum-journal.org/papers/q-2021-06-24-481/)
+* **Stochastic/difusive processes** ![](badges/NISQ.png) ![](badges/Num.png) [Kub+20](https://arxiv.org/abs/2012.04429) [Alg+22](https://quantum-journal.org/papers/q-2022-06-07-730/) ![](badges/FTol.png) ![](badges/Num.png) [An+21](https://quantum-journal.org/papers/q-2021-06-24-481/)
 
 	*(Integro-)differential equations in which one or more of the terms is a stochastic process, leading to a solution which is stochastic in nature. Stochastic Differential Equations (SDEs) can be used to model physical systems subject to thermal fluctuations.*
 	
