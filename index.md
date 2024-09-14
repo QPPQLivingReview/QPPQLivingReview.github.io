@@ -262,7 +262,7 @@ In order to be as useful as possible, this document will continue to evolve so p
 	
 		*Several linear embedding of nonlinear dynamical systems have been developed to extend the class of problems that can be tackled by quantum computers. These include Koopman–von Neumann formulation, Quantum nonlinear Schrödinger lineariza- tion formulation and Carleman linearization, amongst others.*
 	
-	* **Koopman–von Neumann formulation** ![](badges/FTol.png) ![](badges/Theo.png) [Jos20](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043102) [JLY22c](https://arxiv.org/abs/2209.08478) ![](badges/Num.png) [Lin+22](https://arxiv.org/abs/2202.02188)
+	* **Koopman–von Neumann formulation** ![](badges/FTol.png) ![](badges/Theo.png) [Jos20](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043102) [JLY22c](https://arxiv.org/abs/2209.08478) [TF23](https://arxiv.org/abs/2305.00653) ![](badges/Num.png) [Lin+22](https://arxiv.org/abs/2202.02188)
 	
 		*Koopman–von Neumann mechanics is a description of classical mechanics embedded in a Hilbert space. The dynamical equation can be written as*
 		
