@@ -111,7 +111,7 @@ In order to be as useful as possible, this document will continue to evolve so p
 			
 			*The semi-classical regime of the Schrödinger equation corresponds to the case when ħ ≪ 1. Possible applications include: quantum chemistry, including Born-Oppenheimer molecular dynamics and Ehrenfest dynamics.*
 			
-		* **Time-dependent Schrödinger** ![](badges/NISQ.png) [Jou22](https://arxiv.org/abs/2205.02358) ![](badges/FTol.png) ![](badges/Num.png) [JLL22](https://quantum-journal.org/papers/q-2022-06-17-739/)
+		* **Time-dependent Schrödinger** ![](badges/NISQ.png) [Jou22](https://arxiv.org/abs/2205.02358) [Oll+23](https://quantum-journal.org/papers/q-2023-10-12-1139/) ![](badges/FTol.png) ![](badges/Num.png) [JLL22](https://quantum-journal.org/papers/q-2022-06-17-739/) ![](badges/QIns.png) ![](badges/Num.png) [LMJ18](https://www.sciencedirect.com/science/article/abs/pii/S0021999118304431?via%3Dihub)
 		
 			*Many problems can be mapped to the Schrödinger equation*
 			
@@ -243,7 +243,7 @@ In order to be as useful as possible, this document will continue to evolve so p
 		
 		*where* μ *and* D *are the drift and diffusion coefficients (which may be time-dependent).*
 		
-	* **Linear Boltzmann/Rate equation** ![](badges/FTol.png) ![](badges/Num.png) [JLY22b](https://arxiv.org/abs/2212.14703)
+	* **Linear Boltzmann/Rate equation** ![](badges/FTol.png) ![](badges/Num.png) [JLY22b](https://arxiv.org/abs/2212.14703) [IKK24](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.034010)
 
 		*The linear Boltzmann or Rate equation is a stochastic integro-differential equation for the probability density* p(x, t) *can be written as*
 		
