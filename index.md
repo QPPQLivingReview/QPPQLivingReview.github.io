@@ -118,6 +118,9 @@ In order to be as useful as possible, this document will continue to evolve so p
 			$$\mathrm{i}\hbar \partial_t \vert{\psi(t)}\rangle = H\vert{\psi(t)}\rangle$$
 			
 			*described by some Hamiltonian H. Solving the Schrödinger equation can often be done much more efficiently with quantum computers.*
+		* **3-wave mixing** ![](badges/FTol.png) ![](badges/Exp.png) [Shi+21](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062608) [Shi+24](https://arxiv.org/abs/2406.13003) ![](badges/FTol.png) ![](badges/Num.png) [MQ23](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.107.062204) [MQ24](https://arxiv.org/abs/2401.03995)
+
+    
 		* **SFQED Hamiltonian** ![](badges/FTol.png) ![](badges/Exp.png) [HD24](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.076004)
     
 				
