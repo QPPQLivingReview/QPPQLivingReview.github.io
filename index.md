@@ -77,7 +77,7 @@ In order to be as useful as possible, this document will continue to evolve so p
 				
 				$$x \dfrac{\mathrm{d}^2 y}{\mathrm{d} x^2} + (1-x) \dfrac{\mathrm{d} y}{\mathrm{d} x} + n ~y = 0$$
 			
-	* **Nonlinear** ![](badges/NISQ.png) [KPE21](https://link.aps.org/doi/10.1103/PhysRevA.103.052416) [Shi+21](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062608) ![](badges/FTol.png) [LO08](https://arxiv.org/abs/0812.4423) [DS21](https://arxiv.org/abs/2105.07317)  ![](badges/Num.png) [JLY22b](https://arxiv.org/abs/2212.14703) [Liu+20](https://arxiv.org/abs/2011.03185) [SGS22](https://arxiv.org/abs/2212.10775) ![](badges/QAnn.png) ![](badges/Num.png) [Zan+21](https://www.sciencedirect.com/science/article/pii/S2095927321004631)
+	* **Nonlinear** ![](badges/NISQ.png) [KPE21](https://link.aps.org/doi/10.1103/PhysRevA.103.052416) [Shi+21](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.062608) ![](badges/FTol.png) [LO08](https://arxiv.org/abs/0812.4423) [DS21](https://arxiv.org/abs/2105.07317)  ![](badges/Num.png) [JLY22b](https://arxiv.org/abs/2212.14703) [Liu+20](https://arxiv.org/abs/2011.03185) [SGS22](https://arxiv.org/abs/2212.10775) [SGS24](https://link.springer.com/article/10.1007/s11128-024-04311-2) ![](badges/QAnn.png) ![](badges/Num.png) [Zan+21](https://www.sciencedirect.com/science/article/pii/S2095927321004631)
 	
 		*There is no general reliable procedure to solve nonlinear ODEs, but some methods have been proposed.*
 	
